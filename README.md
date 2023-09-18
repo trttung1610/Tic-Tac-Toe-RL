@@ -1,6 +1,8 @@
 # Tic-Tac-Toe-RL
 ---
-Title : Tic Tac Toe Game
-Deploy : Streamlit
-Type : Reinforcement Learning 
+title: Tic Tac Toe RL
+sdk: streamlit
+sdk_version: 1.26.0
+app_file: app.py
 ---
+
